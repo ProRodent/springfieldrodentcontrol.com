@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://springfieldrodentcontrol.com/sitemap.xml
